@@ -1,1 +1,2 @@
-# MYBOJ_source
+# source code for solving baekjoon problems
+# by Jinho Jang
